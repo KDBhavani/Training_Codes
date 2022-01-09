@@ -1,0 +1,7 @@
+name	age	marks
+Ravi	10	20
+vinay	12	30
+Ashok	13	34
+
+
+
